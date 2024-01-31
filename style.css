@@ -90,6 +90,7 @@ ol li {
     color: hsl(30, 10%, 34%);
     line-height: 25px;
     margin-bottom: 10px;
+    display: flex;
   }
   /* Outout the numbers using the counter() function, but use a custom color, and position the numbers how we want */
   ol li:before {
